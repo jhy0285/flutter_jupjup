@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>881138100497-t08p7g9b59gm1cffc8lqmb13cl6krvig.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.881138100497-t08p7g9b59gm1cffc8lqmb13cl6krvig</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAeUfGQ46R4qE_RlpxMdmehbThaBwryK10</string>
+	<key>GCM_SENDER_ID</key>
+	<string>881138100497</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.jupjup</string>
+	<key>PROJECT_ID</key>
+	<string>zupzup-951d3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zupzup-951d3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:881138100497:ios:6f4b184917e6a7b2b884b0</string>
+	<key>DATABASE_URL</key>
+	<string>https://zupzup-951d3-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

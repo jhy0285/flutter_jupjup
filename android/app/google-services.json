@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "881138100497",
+    "firebase_url": "https://zupzup-951d3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "zupzup-951d3",
+    "storage_bucket": "zupzup-951d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881138100497:android:03d613ddf23d58c2b884b0",
+        "android_client_info": {
+          "package_name": "com.example.jupjup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881138100497-61mjhjnhlvpg5f8nlpld4nk71ftppfm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFZEZ43PoRTrfLBrEOBmjfsZRj2pyIEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881138100497-61mjhjnhlvpg5f8nlpld4nk71ftppfm5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881138100497-b7klqkulkac7nn3qcn3g64k3knigbq98.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ZupZup.App"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881138100497:android:8a4946ffb1997499b884b0",
+        "android_client_info": {
+          "package_name": "com.example.zupzup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881138100497-61mjhjnhlvpg5f8nlpld4nk71ftppfm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFZEZ43PoRTrfLBrEOBmjfsZRj2pyIEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881138100497-61mjhjnhlvpg5f8nlpld4nk71ftppfm5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881138100497-b7klqkulkac7nn3qcn3g64k3knigbq98.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ZupZup.App"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
