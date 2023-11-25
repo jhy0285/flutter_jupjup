@@ -1,16 +1,10 @@
 # jupjup
 
-A new Flutter project.
+우리 동네 마감할인 플랫폼, 줍줍의 사장님 전용 어플을 개발하였습니다.
 
-## Getting Started
+개발 중간에 일신상의 이유로 창업팁을 나갔어서, 개발 중간 과정까지를 대표와 상담후에 레포로서 관리하도록 허락 받았습니다.
 
-This project is a starting point for a Flutter application.
+대신 자세한 플랫폼의 내용 설명이나, 로직은 기술하지 않기로 하였으니 이해바랍니다.
 
-A few resources to get you started if this is your first Flutter project:
+포트폴리용보단, 창업 참여 기록용으로 남기기위한 레포에 가깝습니다. 이점 참고 바랍니다.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
